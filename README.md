@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniil - aka [FatonnDev][website] 👋
 
-## I'm a Developer and Owner of the ObvilionNetwork project!
+## I'm a russian Developer and Owner of the ObvilionNetwork project!
 
 - 🔭 I’m currently working on a [Obvilion Network][website]!
 - 🌱 I’m currently learning everything 🤣
