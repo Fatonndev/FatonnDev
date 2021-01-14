@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a [Obvilion Network][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Finish developing the Obvilion Network project
+- 🥅 2021 Goals: Finish developing the Obvilion Network project
 - ⚡ Fun fact: I love to draw in Flat style
 
 ### Connect with me:
