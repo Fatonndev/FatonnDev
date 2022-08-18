@@ -7,8 +7,8 @@ I'm a first-year student of [Polessky State University][university], a Full Stac
 I am 17 years old, and I am the owner of the Open-Source brand [Obvilion.ru][obvilion_github]. I am an open source enthusiast. I've learned a lot from the open source developer community, and I love how open-source enables collaboration and knowledge sharing.
 <br/>
 
-- 💼 &nbsp; any freelance work? do reach, email :)
-- 💬 &nbsp; ask me about anything, i am happy to help;
+- 💼 &nbsp; any freelance work? contact me in any of the ways below :)
+- 💬 &nbsp; ask me about anything, i am happy to help ;)
 
 # Languages and tools 🛠 
 <h3 align="center">🔧 &nbsp;Tools and languages I use.<h3/>
