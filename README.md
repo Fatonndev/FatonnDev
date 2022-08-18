@@ -9,7 +9,6 @@ I am 17 years old, and I am the owner of the Open-Source brand [Obvilion.ru][obv
 
 - 💼 &nbsp; any freelance work? do reach, email :)
 - 💬 &nbsp; ask me about anything, i am happy to help;
-<br>
 
 # Languages and tools 🛠 
 <h3 align="center">🔧 &nbsp;Tools and languages I use.<h3/>
@@ -86,11 +85,10 @@ I am 17 years old, and I am the owner of the Open-Source brand [Obvilion.ru][obv
 <img alt="graphics" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <img alt="ssd" src="https://img.shields.io/badge/0.5%20TB%20SSD-grey?style=for-the-badge" />
 <p/>
-<br/>
 
 # My contact details 🔗
-
 <p align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.gg/cg82mjh">
   <img alt="Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
