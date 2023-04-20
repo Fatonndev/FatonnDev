@@ -81,9 +81,9 @@ I am 18 years old, and I am the owner of the Open-Source brand [Obvilion.ru][obv
 <p align="center">
 <img alt="os" src="https://img.shields.io/badge/Windows-HP_Victus_16-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img alt="soc" src="https://img.shields.io/badge/AMD-Ryzen_5_5600H-0071C5?style=for-the-badge&logo=amd&logoColor=white" />
-<img alt="ram" src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+<img alt="ram" src="https://img.shields.io/badge/RAM-20GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 <img alt="graphics" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img alt="ssd" src="https://img.shields.io/badge/0.5%20TB%20SSD-grey?style=for-the-badge" />
+<img alt="ssd" src="https://img.shields.io/badge/0.7%20TB%20SSD-grey?style=for-the-badge" />
 <p/>
 
 # My contact details 🔗
