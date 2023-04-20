@@ -4,7 +4,7 @@
 
 I'm a first-year student of [Polessky State University][university], a Full Stack developer and technical enthusiast from Belarus. 
 
-I am 17 years old, and I am the owner of the Open-Source brand [Obvilion.ru][obvilion_github]. I am an open source enthusiast. I've learned a lot from the open source developer community, and I love how open-source enables collaboration and knowledge sharing.
+I am 18 years old, and I am the owner of the Open-Source brand [Obvilion.ru][obvilion_github]. I am an open source enthusiast. I've learned a lot from the open source developer community, and I love how open-source enables collaboration and knowledge sharing.
 <br/>
 
 - 💼 &nbsp; any freelance work? contact me in any of the ways below :)
