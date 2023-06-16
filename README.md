@@ -1,6 +1,6 @@
 <img src="banner.jpg" alt="FatonnDev Banner"/>
 
-# Hi, I'm Daniel Krischik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> 
+# Hi, I'm Daniil Krischik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> 
 
 I'm a first-year student of [Polessky State University][university], a Full Stack developer and technical enthusiast from Belarus. 
 
